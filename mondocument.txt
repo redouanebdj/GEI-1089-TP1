@@ -1,0 +1,2 @@
+Vi et Vim sont des editeurs de texte  couramment utilises par les professionnels de l'infromatique et les administrateurs systeme.
+

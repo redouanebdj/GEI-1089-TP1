@@ -1,0 +1,7 @@
+
+Ceci est un fichier text d'exemple.
+ il contient plusieurs lignes de text.
+Nous l'utiliserons pour pratiquer 'grep'.
+La commande 'grep' est un outil puissant.
+Elle peut rechercher des motifs dans le texte.
+
