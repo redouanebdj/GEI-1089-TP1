@@ -1,0 +1,157 @@
+    7  lsb_release -a
+   20  ls -la ~/.local/bin/claude
+   38  mkdir ~/rtk-test
+   39  cd ~/rtk-test
+   50  mkdir -p ~/.npm-global
+   62  mkdir -p ~/.local/share/gnome-shell/extensions/oled-care@kimasplund.online
+   78  cd ~
+   79  rm ~rf ~/rtk-test
+  129  [200~mkdir -p ~/qwen-training
+  130  cd ~/qwen-training
+  131  mkdir -p ~/qwen-training
+  132  cd ~/qwen-training
+  134  mkdir -p ~/qwen-training
+  135  cd ~/qwen-training
+  151  cd ~/qwen-training
+  162  cd ~/qwen-training
+  164  cd Qwen3-VL/qwen-vl-finetune
+  165  ls
+  172  ls -la
+  179  ls~
+  180  ~ls
+  181  cd ..
+  183  cd ..
+  185  cd ..
+  186  cd ~
+  192  nvidia ls
+  198  mkdir -p ~/qwen-agent
+  199  cd ~/qwen-agent
+  202  cd ~/qwen-agent
+  220  cd ~
+  222  cd ~
+  239  ls -l /var/run/docker.sock
+  264  pwd
+  266  pwd
+  279  sudo docker rm open-webui
+  280  sudo docker run -d   --name open-webui   --restart unless-stopped   -p 0.0.0.0:3000:8080   -v open-webui:/app/backend/data   -e ENV=prod   -e PORT=8080   -e USE_OLLAMA_DOCKER=false   -e USE_CUDA_DOCKER=false   -e USE_SLIM_DOCKER=false   -e USE_EMBEDDING_MODEL_DOCKER=sentence-transformers/all-MiniLM-L6-v2   -e WHISPER_MODEL=base   -e RAG_EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2   -e TIKTOKEN_ENCODING_NAME=cl100k_base   -e SCARF_NO_ANALYTICS=true   -e DO_NOT_TRACK=true   -e ANONYMIZED_TELEMETRY=false   ghcr.io/open-webui/open-webui:main
+  283  pwd
+  286  cd ~
+  287  cd $HOME
+  290  cd ~
+  291  mkdir GEI-1089
+  292  ls
+  293  ls -l
+  295  cd GEI-1089
+  296  pwd
+  299  pwd
+  300  mkdir GEI-1089 
+  301  mkdir TP-GEI-1089
+  305  cd downloads
+  306  cd Downloadws
+  307  cd Downloads
+  314  cd rar
+  317  cd rar
+  319  cd rar
+  321  cd rar
+  344  cd ~/Downloads
+  345  ls
+  346  cd ~/Downloads
+  348  cd rar
+  359  cd ~/Downloads
+  365  cd ~/Downloads
+  366  ls
+  368  cd ~/Downloads
+  369  ls
+  370  cd matlab_R2026_linux 
+  371  cd matlab_R2026a_linux 
+  372  cd matlab_R2026a_Linux 
+  373  ls
+  375  ls
+  389  cd ~/Downloads
+  391  ls | grep chatgpt
+  392  cd ~/Downloads
+  393  ls | grep chatgpt
+  395  ls -lh
+  410  pwd
+  412  pwd
+  413  mkdir -p ~/TP1
+  415  ls -lh ~/TP1/session-TP1.txt
+  417  pwd
+  418  mkdir -p ~/tp01
+  421  ls -lh ~/tp01/session-tp01.txt
+  426  mkdir -p ~/TP1-preuves
+  429  pwd
+  431  pwd
+  432  cd ~
+  433  mkdir GEI-1089
+  434  ls
+  436  ls
+  437  cd GEI-1089
+  438  pwd
+  440  ls
+  443  pwd
+  445  mkdir GEI-1089
+  446  mkdir TP-GEI-1089
+  447  mkdir TP-GEI-1089 Cours-GEI-1089
+  448  ls
+  449  ls -ld TP-GEI-1089 Cours-GEI-1089
+  450  mkdir TP-GEI-1089/TP1 TP-GEI-1089/TP2
+  451  mkdir Cours-GEI-1089/Cours1 Cours-GEI-1089
+  452  mkdir Cours-GEI-1089/Cours1 Cours-GEI-1089/Cours2
+  453  ls -ld TP-GEI-1089
+  454  ls  TP-GEI-1089
+  455  ls  Cours-GEI-1089
+  456  ls -l  Cours-GEI-1089
+  457  mkdir TP-GEI-1089/TP1/exo1
+  458  mkdir TP-GEI-1089/TP1/exo1 TP-GEI-1089/TP1/exo2
+  459  ls
+  460  ls -l
+  461  touch TP-GEI-1089/TP1/EXO1/sol_E1 TP-GEI-1089/TP1/EXO1/SOL/E2
+  462  touch TP-GEI-1089/TP1/exo1/sol.E1 TP-GEI-1089/TP1/exo1/sol.E2
+  468  pwd
+  469  cd Cours-GEI-1089/TP1
+  470  pwd
+  471  cd ../TP2
+  472  cd ../TP1
+  474  cd /home/redouane/TP-GEI-1089/TP1
+  476  pwd
+  478  pwd
+  480  rmdir Cours-GEI-1089/TP2
+  481  rmdir ~/Cours-GEI-1089/TP2
+  482  ls -la Cours-GEI-1089/TP2
+  483  ls -la Cours-GEI-1089/TP2/exo1
+  484  mv COurs-GEI-1089/TP2/exo1 Cours-GEI-1089/
+  485  mv Cours-GEI-1089/TP2/exo1 Cours-GEI-1089/
+  486  mv Cours-GEI-1089/TP2/exo2 Cours-GEI-1089/
+  487  ls -la Cours-GEI-1089/TP2
+  488  rmdir Cours-GEI-1089/TP2
+  490  ls
+  491  ls -la
+  492  rmdir Cour-GEI-1089
+  493  rmdir Cours-GEI-1089/TP2
+  494  rmdir Cours-GEI-1089/Cours2
+  495  tree Cours-GEI-1089
+  496  sudo apt install tree
+  497  tree Cours-GEI-1089
+  498  mv Cours-GEI-1089/exo1/sol.E1 Cours-GEI-1089/TP1/
+  499  mv Cours-GEI-1089/exo1/sol.E2 Cours-GEI-1089/TP1/
+  500  tree
+  501  tree Cours-GEI-1089
+  502  rmdir Cours-GEI-1089/exo1 Cours-GEI-108/exo2
+  503  rmdir Cours-GEI-1089/exo1 Cours-GEI-1089/exo2
+  504  rmdir ~/Cours-GEI-1089/exo1 ~/Cours-GEI-1089/exo2
+  505  rm Cours-GEI-1089/TP1/exo1/sol.E1
+  506  rm Cours-GEI-1089/TP1/exo1/sol.E2
+  507  rmdir Cours-GEI-1089/exo1 Cours-GEI-1089/exo2
+  508  rmdir ~/Cours-GEI-1089/TP1/exo1
+  509  rmdir ~/Cours-GEI-1089/TP1/exo2
+  510  mv Cours-GEI-1089/TP/sol.E1 Cours-GEI-1089/TP1/Solution.E1
+  511  mv ~/Cours-GEI-1089/TP1/sol.E1 ~/Cours-GEI-1089/TP1/Solution_E1
+  512  mv Cours-GEI-1089/TP1/sol.E1 Cours-GEI-1089/TP1/Solution.E1
+  513  mv ~/Cours-GEI-1089/TP1/sol.E1 ~/Cours-GEI-1089/TP1/Solution_E1
+  514  tree Cours-GEI-1089
+  515  mv Cours-GEI-1089/TP1/sol.E2 Cours-GEI-1089/TP1/Solution.E2
+  516  tree
+  517  tree Cours-GEI-1089
+  518  cd Cours-GEI-1089
+  519  history | grep -E 'mkdir|cd |pwd|rmdir|mv |rm |tree|touch|ls' > TP1_commandes.txt

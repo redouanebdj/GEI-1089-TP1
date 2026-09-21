@@ -1,0 +1,9 @@
+/home/redouane/Cours-GEI-1089
+├── Cours1
+├── TP1
+│   ├── Solution_E1
+│   └── Solution.E2
+├── TP1_arborescence.txt
+└── TP1_commandes.txt
+
+3 directories, 4 files
