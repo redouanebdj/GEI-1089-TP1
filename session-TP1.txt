@@ -1,0 +1,5 @@
+Script started on 2026-09-20 20:41:05-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="85" LINES="14"]
+]666;vte.shell.postexec=0\]7;file://redouane/home/redouane\]0;redouane@redouane:~\]666;vte.shell.precmd!\[?2004h]0;redouane@redouane: ~[01;32mredouane@redouane[00m:[01;34m~[00m$ exit
+[?2004l]133;C\]666;vte.shell.preexec!\exit
+
+Script done on 2026-09-20 20:41:19-04:00 [COMMAND_EXIT_CODE="0"]
